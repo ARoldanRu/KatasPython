@@ -1,2 +1,1 @@
-# KatasPython
-Katas correspondientes al curso de Python del programa Launch X de Innovaccion Virtual y Microsoft 
+Solucion a las Katas del curso de Python introductorio de Launch X por innovaccion Virtual
